@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ay-yasser&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ay-yasser" /> </p>
 
-- 🔭 I’m currently working as a **Freelancing Data Analyst** at **[Mostaql](https://mostaql.com/u/Ahmed_Yasser_1)**
+- 🔭 I’m currently working as a **Data Analyst** at **Oppo Egypt**
+
+- 🔭 I also work as a **Freelance Data Analyst** at **[Mostaql](https://mostaql.com/u/Ahmed_Yasser_1)**
 
 - 👨‍💻 All of my projects are available at: **[My Portfolio](novypro.com/profile_projects/ahmed-ay-yasser)**
 
