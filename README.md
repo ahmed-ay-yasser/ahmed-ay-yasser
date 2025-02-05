@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I also work as a **Freelance Data Analyst** at **[Mostaql](https://mostaql.com/u/Ahmed_Yasser_1)**
 -->
-- 👨‍💻 All of my projects are available at: **[My Portfolio](novypro.com/profile_projects/ahmed-ay-yasser)**
+- 👨‍💻 All of my projects are available at: **[My Portfolio](https://novypro.com/profile_projects/ahmed-ay-yasser)**
 
 - 📫 How to reach me: **ahmedyasserdar1@gmail.com**
 
