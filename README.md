@@ -7,14 +7,14 @@
 
 - 🔭 I’m currently working as a **Data Analyst** at **Oppo Egypt**
 
-- 🔭 I also work as a **Freelance Data Analyst** at **[Mostaql](https://mostaql.com/u/Ahmed_Yasser_1)**
-
+<!-- - 🔭 I also work as a **Freelance Data Analyst** at **[Mostaql](https://mostaql.com/u/Ahmed_Yasser_1)**
+-->
 - 👨‍💻 All of my projects are available at: **[My Portfolio](novypro.com/profile_projects/ahmed-ay-yasser)**
 
 - 📫 How to reach me: **ahmedyasserdar1@gmail.com**
 
-- 📄 Know about my experiences through: **[My Resume](https://drive.google.com/file/d/135dFbq-y7sIcbeJGLdvD6a2DOqcLwLDL/view?usp=sharing)**
-
+<!-- -- 📄 Know about my experiences through: **[My Resume](https://drive.google.com/file/d/135dFbq-y7sIcbeJGLdvD6a2DOqcLwLDL/view?usp=sharing)**
+-->
 - ⚡ Fun fact: **I Love Watching Pro Wrestling 💪🤼‍♂️ but not imitating them 😂**
 
 <h3 align="left">Connect with me:</h3>
