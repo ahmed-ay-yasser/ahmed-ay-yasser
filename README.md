@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ay-yasser&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ay-yasser" /> </p>
 
-- 🔭 I’m currently working as a **Data Analyst** at **OPPO Egypt**
+- 🔭 I’m currently working as a **Business Intelligence Analyst** at **Giza Systems**
 
-- 🔭 I also work as a **Freelance Data Analyst** at **[Mostaql](https://mostaql.com/u/Ahmed_Yasser_1)**
+- 🔭 I've successfully secured 30+ freelance projects as a **Freelance Data Analyst** at **[Mostaql](https://mostaql.com/u/Ahmed_Yasser_1)**
 
-- 👨‍💻 All of my projects are available at: **[My Portfolio](https://novypro.com/profile_projects/ahmed-ay-yasser)**
+- 👨‍💻 All of my projects are available at: **[My Portfolio]([https://novypro.com/profile_projects/ahmed-ay-yasser](https://ahmed-ay-yasser.github.io/career.github.io/)**
 
 - 📫 How to reach me: **ahmedyasserdar1@gmail.com**
 
