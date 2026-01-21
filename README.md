@@ -1,6 +1,6 @@
 ![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
-<-- <h3 align="center">The Phenomenal Data Analyst from Egypt.</h3> --!>
+<!-- <h3 align="center">The Phenomenal Data Analyst from Egypt.</h3> -->
 <img align="right" alt="Data Analysis" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ay-yasser&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ay-yasser" /> </p>
