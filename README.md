@@ -9,7 +9,7 @@
 
 - 🔭 I've successfully secured 30+ freelance projects as a **Freelance Data Analyst** at **[Mostaql](https://mostaql.com/u/Ahmed_Yasser_1)**
 
-- 👨‍💻 All of my projects are available at: **[My Portfolio]([https://novypro.com/profile_projects/ahmed-ay-yasser](https://ahmed-ay-yasser.github.io/career.github.io/)**
+- 👨‍💻 All of my projects are available at: **[My Portfolio]([https://novypro.com/profile_projects/ahmed-ay-yasser](https://ahmed-ay-yasser.github.io/career.github.io/))**
 
 - 📫 How to reach me: **ahmedyasserdar1@gmail.com**
 
